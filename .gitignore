@@ -1,0 +1,6 @@
+echo ".idea/
+__pycache__/
+*.pyc
+*.log
+output/
+scrapy.cfg" > .gitignore
